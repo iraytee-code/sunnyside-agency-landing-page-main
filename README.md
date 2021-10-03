@@ -2,7 +2,7 @@
 
 A Personal project.
 
-This is a solution to the [Loopstudios landing page challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/sunnyside-agency-landing-page-7yVs3B6ef/hub/sunnyside-agency-landing-page-ESM-9dMZl). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
+This is a solution to the [sunnyside agency landing page](https://www.frontendmentor.io/challenges/sunnyside-agency-landing-page-7yVs3B6ef/hub/sunnyside-agency-landing-page-ESM-9dMZl). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
 ## Table of contents
 
@@ -44,8 +44,8 @@ Screenshot of the general overview of the site in mobile view.
 
 ### Links
 
-- Solution URL: [Challenge Solution](https://www.frontendmentor.io/challenges/loopstudios-landing-page-N88J5Onjw/hub/loopstudios-landing-page-ACvA48Gj4)
-- Live Site URL: [Loopstudios](https://iraytee-code.github.io/loopstudios-landing-page-main/)
+- Solution URL: [Challenge Solution](https://www.frontendmentor.io/challenges/sunnyside-agency-landing-page-7yVs3B6ef/hub/sunnyside-agency-landing-page-ESM-9dMZl)
+- Live Site URL: [Loopstudios](https://iraytee-code.github.io/sunnyside-agency-landing-page-main/)
 
 ## My process
 
